@@ -15,6 +15,11 @@ namespace tpmodul4_1302200012
 
             String a = Console.ReadLine();
             HaloGeneric.SapaUser <String> (a);
+
+            Console.WriteLine("NIM User: ");
+            String NIM = Console.ReadLine();
+            DataGeneric<String> c = new DataGeneric<string>(NIM);
+            c.PrintData();
         }
     }
     class HaloGeneric
@@ -23,12 +28,6 @@ namespace tpmodul4_1302200012
         {
             Console.WriteLine("Halo User " + nama); 
 
-
-
-            Console.WriteLine("NIM User: ");
-            String NIM = Console.ReadLine();
-            DataGeneric <String> a = new DataGeneric<string>(NIM);
-            a.PrintData();
         }
     }
     class DataGeneric <T>

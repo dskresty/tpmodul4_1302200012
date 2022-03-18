@@ -1,0 +1,8 @@
+C:\Users\desak\Documents\GitHub\tpmodul4_1302200012\tpmodul4_1302200012\tpmodul4_1302200012\bin\Debug\tpmodul4_1302200012.exe.config
+C:\Users\desak\Documents\GitHub\tpmodul4_1302200012\tpmodul4_1302200012\tpmodul4_1302200012\bin\Debug\tpmodul4_1302200012.exe
+C:\Users\desak\Documents\GitHub\tpmodul4_1302200012\tpmodul4_1302200012\tpmodul4_1302200012\bin\Debug\tpmodul4_1302200012.pdb
+C:\Users\desak\Documents\GitHub\tpmodul4_1302200012\tpmodul4_1302200012\tpmodul4_1302200012\obj\Debug\tpmodul4_1302200012.csproj.AssemblyReference.cache
+C:\Users\desak\Documents\GitHub\tpmodul4_1302200012\tpmodul4_1302200012\tpmodul4_1302200012\obj\Debug\tpmodul4_1302200012.csproj.SuggestedBindingRedirects.cache
+C:\Users\desak\Documents\GitHub\tpmodul4_1302200012\tpmodul4_1302200012\tpmodul4_1302200012\obj\Debug\tpmodul4_1302200012.csproj.CoreCompileInputs.cache
+C:\Users\desak\Documents\GitHub\tpmodul4_1302200012\tpmodul4_1302200012\tpmodul4_1302200012\obj\Debug\tpmodul4_1302200012.exe
+C:\Users\desak\Documents\GitHub\tpmodul4_1302200012\tpmodul4_1302200012\tpmodul4_1302200012\obj\Debug\tpmodul4_1302200012.pdb
